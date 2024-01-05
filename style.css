@@ -15,7 +15,7 @@ h1{
     font-style: italic;
     font-display: justify;
     font-weight: 1;
-    font-family: cursive, fantasy, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-family: cursive, fantasy, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     background-color: orange;
     width: 7.5vw;
     padding-left: 1vw;
@@ -56,7 +56,7 @@ h1{
     width: 80%;
     border-radius: 2vw;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     background-color: orange;
 }
@@ -68,7 +68,7 @@ h1{
     width: 80%;
     border-radius: 2vw;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     background-color: orange;
 }
@@ -80,7 +80,7 @@ h1{
     width: 80%;
     border-radius: 2vw;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     background-color: orange;
 }
